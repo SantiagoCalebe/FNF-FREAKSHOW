@@ -37,13 +37,14 @@ class CreditsState extends MusicBeatState {
 			//People
             "MikeDEV \nOwner, artist and Composer. \n\n\n" +
             "Santiago \nCo-Onwer, coder and artist. \n\n\n" +
+				              "RedMaskOfficial \nArtist and Wallpaper Art. \n\n\n" +
 			"Catly \nPlaytester. \n\n\n" +
 			"FraserBear \nPlaytester. \n\n\n" +
 			"CSNP \nComposer. \n\n\n" +
             "MattTheCool \nComposer. \n\n\n" +
             "ThatOneFourIhr \nComposer. \n\n\n" +
             "Kirill \nCharter. \n\n\n" +
-            "Nico \nBackground Artist. \n\n\n\n\n" +
+            "Nico \nBanner Artist. \n\n\n\n\n" +
 
             "Special Thanks \n\n\n\n\n\n\n\n\n\n\n" +
 
